@@ -30,3 +30,7 @@ function start()
 }
 
 start()
+
+function haiku2(){
+    return ["Winter is koud","zomer is warm","Ik hou van zeiken."]
+}
