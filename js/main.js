@@ -34,3 +34,11 @@ function start()
 }
 
 start()
+
+
+function haiku1(){
+
+    return ["Kaas","Fortnite","Minecraft."]
+
+}
+
